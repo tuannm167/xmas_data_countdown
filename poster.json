@@ -1,0 +1,80 @@
+[
+	{
+		"id": 0,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-0.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-0.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 1,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-1.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-1.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 2,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-2.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-2.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 3,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-3.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-3.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 4,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-4.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-4.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 5,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-5.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-5.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 6,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-6.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-6.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 7,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-7.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-7.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 8,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-8.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-8.jpg",
+		"type": "poster"
+	},
+	{
+		"id": 9,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-9.jpg",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-9.jpg",
+		"type": "poster"
+	},
+    {
+        "id": 10,
+        "url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-10.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-10.jpg",
+        "type": "poster"
+    },
+    {
+        "id": 11,
+        "url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-11.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-11.jpg",
+        "type": "poster"
+    },
+    {
+        "id": 12,
+        "url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/poster-12.jpg",
+        "thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Poster/thumbnail-poster-12.jpg",
+        "type": "poster"
+    }
+]

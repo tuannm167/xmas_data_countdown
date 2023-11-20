@@ -1,0 +1,20 @@
+[
+	{
+		"id": 0,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Box/countdown-box-0.png",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Box/thumbnail-countdown-box-0.png",
+		"type": "countdown-box"
+	},
+	{
+		"id": 1,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Box/countdown-box-1.png",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Box/thumbnail-countdown-box-1.png",
+		"type": "countdown-box"
+	},
+	{
+		"id": 2,
+		"url": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Box/countdown-box-2.png",
+		"thumbnailUrl": "https://raw.githubusercontent.com/tuannm167/xmas_data_countdown/main/Box/thumbnail-countdown-box-2.png",
+		"type": "countdown-box"
+	}
+]

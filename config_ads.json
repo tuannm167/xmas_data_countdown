@@ -1,4 +1,5 @@
-{
+[
+]{
   "admob": {
     "adIds": [
       "appOpen",
@@ -34,3 +35,4 @@
   "loading_time": 10,
   "banner_collapse": true
 }
+]

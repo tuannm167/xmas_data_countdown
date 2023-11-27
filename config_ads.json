@@ -1,0 +1,36 @@
+{
+  "admob": {
+    "adIds": [
+      "appOpen",
+      "native",
+      "banner",
+      "interstitial"
+    ],
+    "banner": "ca-app-pub-2299291161271404/2659235199",
+    "interstitial": "ca-app-pub-2299291161271404/2752989560",
+    "splash": "ca-app-pub-2299291161271404/7753162665",
+    "native": "ca-app-pub-2299291161271404/6440080990",
+    "appOpen": "ca-app-pub-2299291161271404/4341403408"
+  },
+  "applovin": {
+    "adIds": [
+      "appOpen",
+      "native",
+      "banner",
+      "interstitial"
+    ],
+    "banner": "e0689a86099e844f",
+    "interstitial": "93b0446f35adf596",
+    "splash": "007084e94f9384f4",
+    "native": "46fc238bf406c337",
+    "appOpen": "d3ee7b56e7411e78"
+  },
+  "adorder": [
+    "admob",
+    "applovin"
+  ],
+  "ad_splash": "applovin",
+  "total": 3,
+  "loading_time": 10,
+  "banner_collapse": true
+}
